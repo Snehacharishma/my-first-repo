@@ -1,0 +1,3 @@
+name="Snehacharishma"
+course="BCA"
+It is useful
